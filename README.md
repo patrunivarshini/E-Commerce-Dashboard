@@ -35,14 +35,6 @@ The **Economic Sales Dashboard** enables real-time monitoring of sales performan
 
 ---
 
-## 📸 Dashboard Preview  
-*(Add your dashboard screenshots here)*  
-
-Example:  
-![Dashboard Preview](images/dashboard_preview.png)  
-
----
-
 ## 📈 Business Impact  
 - Improved decision-making through data-driven insights.  
 - Enabled management to quickly identify growth opportunities.  
